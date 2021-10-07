@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "945130276969",
+    "project_id": "slipflow",
+    "storage_bucket": "slipflow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945130276969:android:fce6fe1b99af04b4873af8",
+        "android_client_info": {
+          "package_name": "escovedo.com.slipflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945130276969-qdm1f7m0tvdptp48f452nu3kqv22t2vh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "escovedo.com.slipflow",
+            "certificate_hash": "02a0525442785a8f3316301b4cdb007aaf73f820"
+          }
+        },
+        {
+          "client_id": "945130276969-9959matu4qtlk50cp113f5spvnokfsas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYBPKzxpq7-c7BiKurnwmRGTRbWYfR4pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945130276969-9959matu4qtlk50cp113f5spvnokfsas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
